@@ -73,4 +73,5 @@ This section includes:
 ## Acknowledgement
   This project was completed as part of the "Introduction to Information Technology" course. Special thanks to the course instructors and the AI tools utilized for code generation.
 
-`Note: For any further inquiries or clarifications, please contact the developer at aayushbasnet07@gmail.com or open issues.`
+## Feedback & Issues
+If you encounter any issues or have suggestions, please open an issue on the project's GitHub repository.
